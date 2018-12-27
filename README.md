@@ -9,4 +9,4 @@ My published __Code of Conduct__.  This is a set of norms I expect from everyone
 
 __tl;dr__ In summary, don't be an asshole. 
 
-If you need any type of accomodation or feel maligned in any of our events, please contact me directly at josemari.feliciano@yale.edu 
+If you need any type of accomodation or have ideas on how we can be more inclusive, please contact me directly at josemari.feliciano@yale.edu 
