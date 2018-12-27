@@ -1,4 +1,4 @@
-## YaleGithubConduct
+## YaleGitHubConduct
 
 My published __Code of Conduct__.  This is a set of norms I expect from everyone who will participate in Github-related events at Yale.  There is a zero-tolerance policy for any type of discrimination.  
 
